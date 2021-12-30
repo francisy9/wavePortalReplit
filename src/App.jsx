@@ -8,7 +8,7 @@ const App = () => {
 
   const [currentAccount, setCurrentAccount] = useState("");
   const [allWaves, setAllWaves] = useState([]);
-  const contractAddress = "0x2F80917f7930388E6b784222E6780e84dbaFbEA3";
+  const contractAddress = "";
   const contractABI = abi.abi;
   var count = -1;
 
